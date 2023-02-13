@@ -1,0 +1,31 @@
+table{
+    color:blue;
+    font-weight: bold;
+    border-radius: 10px;
+    border:3px ridge rgb(122, 118, 192);
+    padding: 5px 5px 5px 5px;
+    margin:30px
+}
+[href="#ideveloper"] {
+    color:aqua;
+}
+#ideveloper {
+    color:brown;
+    font-weight: bold;
+}
+html tr {
+    color:darkorange
+}
+.fond-size-md {
+    font-size: 18px;
+}
+[href ="#red"] {
+    color:red;
+}
+[href ="#2"] {
+    color:gray
+}
+.aaa {
+    margin:30px;
+    border:3px dotted rgb(187, 120, 13);
+}
